@@ -20,7 +20,7 @@ PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray)
 - Microsoft Office Suite
 - MATLAB
 - PYTHON 3, inlcuding the following packages:
-⋅⋅* Numpy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Numpy
 ⋅⋅* matplotlib
 ⋅⋅* pandas
 ⋅⋅* seaborn
