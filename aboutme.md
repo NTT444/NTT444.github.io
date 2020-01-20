@@ -15,7 +15,7 @@ I recently graduated from UNM where I aquired a Masters degree in Earth and Plan
 ### Past Experience
 
 ### Familiar Programs
-- [ArcGIS](http://www.unm.edu/~ntownsend/):Primarily for Water Resource Analysis
+- [ArcGIS](http://www.unm.edu/~ntownsend/): Primarily for Water Resource Analysis
 - Microsoft Office Suite
 - MATLAB
 - PYTHON 3, inlcuding the following packages:
