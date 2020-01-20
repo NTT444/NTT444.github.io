@@ -15,7 +15,6 @@ I recently graduated from UNM where I aquired a Masters degree in Earth and Plan
 ### Past Experience
 
 ### Familiar Programs
-PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray), ArcGIS for water resource analysis, Google Earth Pro, Interactive Groundwater Modelling Software, Agisoft PhotoScan Pro, and Cloud Compare
 - [ArcGIS](http://www.unm.edu/~ntownsend/):Primarily for Water Resource Analysis
 - Microsoft Office Suite
 - MATLAB
@@ -39,6 +38,7 @@ PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray)
 - Cloud Compare
 
 ### Familiar Datasets
+U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology datasets, USGS hydrologic datasets, NRCS streamflow forecasts, NOAA seasonal forecasts, National Hydrography Dataset (NHD), Landsat 7 and Landsat 8, USGS STATSGO soil data, USGS National Land Cover Data (NLCD) and have ability to work with files in netCDF format (via Python and MATLAB), gathering geospatial data with UAV.
 
 ### Writing, Publications, and Posters
 
@@ -50,4 +50,12 @@ PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray)
 - Board Games
 - Both hearing and coming up with the most awful puns
 - Reading (see list below for recent favorites)
-- 
+  * The Terror by Daniel Simmons
+  * Hyperion Cantos Series by Daniel Simmons
+  * The Lord of the Rings Trilogy by Tolkien
+  * Game of Thrones by where's that next book George?
+  * Crime and Punishment by Fyodor Dostoevsky
+  * Fight Club by Chuck Palahniuk 
+  * Earthcore by Scott Sigler
+  * The Stormlight Archive Series by Brandon Sanderson
+  * Mortality by Christopher Hitchens
