@@ -33,6 +33,7 @@ U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology d
 
 ### Writing, Publications, and Posters
 My full thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
+
 ### Current Hobbies
 - Hiking/Camping
 - Travelling in general
@@ -44,6 +45,7 @@ My full thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/25
   * The Terror by: Daniel Simmons
   * Hyperion Cantos series by: Daniel Simmons
   * The Lord of the Rings Trilogy by: Tolkien
+  * Reining in the Rio Grande by: Fred M. PhillipsG. Emlen HallMary E. Black
   * Game of Thrones series by: where's that next book George?
   * Crime and Punishment by: Fyodor Dostoevsky
   * Fight Club by: Chuck Palahniuk 
