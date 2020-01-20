@@ -19,7 +19,7 @@ I recently graduated from UNM where I aquired a Masters degree in Earth and Plan
 - Microsoft Office Suite
 - MATLAB
 - PYTHON 3, inlcuding the following packages:
-  * Numpy, Matplotlib,Pandas, Seaborn, Xarray, Climata, Requests, Bokeh, Plotly, StatsModels, Cartopy and Basemap
+  * Numpy, Matplotlib, Pandas, Seaborn, Xarray, Climata, Requests, Bokeh, Plotly, StatsModels, Cartopy and Basemap
 - RiverWare: River and Reservoir Monitoring Tool
 - GoldSim: Dynamic Monte Carlo Simulation Software;  Used for water management planning
 - Power BI
