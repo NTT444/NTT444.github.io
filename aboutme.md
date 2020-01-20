@@ -51,9 +51,9 @@ U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology d
 - Both hearing and coming up with the most awful puns
 - Reading (see list below for recent favorites):
   * The Terror by Daniel Simmons
-  * Hyperion Cantos Series by Daniel Simmons
+  * Hyperion Cantos series by Daniel Simmons
   * The Lord of the Rings Trilogy by Tolkien
-  * Game of Thrones by where's that next book George?
+  * Game of Thrones series by where's that next book George?
   * Crime and Punishment by Fyodor Dostoevsky
   * Fight Club by Chuck Palahniuk 
   * Earthcore by Scott Sigler
