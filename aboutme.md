@@ -26,8 +26,12 @@ PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray)
   * seaborn
   * xarray
   * climata
+  * requests
+  * bokeh
+  * plotly
 - RiverWare: River and Reservoir Monitoring Tool
 - GoldSim: Dynamic Monte Carlo Simulation Software;  Used for water management planning
+- Power BI
 - Google Earth Pro
 - Interactive Groundwater Modelling Software
 - Agisoft PhotoScan Pro
