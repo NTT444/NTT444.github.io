@@ -4,7 +4,7 @@ title: About me
 subtitle:  Never lend a geologist money; to them a million years ago is recent.
 ---
 
-My name is Nolan Townsend and I am interested in all things pertaining to Earth Sciences.  My current interest is how climate change will effect future water availiablility, especially in the southwestern United States.
+My name is Nolan Townsend and I am interested in all things pertaining to Earth Sciences.  My current interest is how climate change will effect future water availiablility, especially in the southwestern United States.  For full details, see my [resumse](https://drive.google.com/file/d/11x2x3UTb03kDQmqOKLItCYpowo4Przh9/preview)
 
 ### Recent Experience
 
