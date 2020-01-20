@@ -20,15 +20,16 @@ PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray)
 - Microsoft Office Suite
 - MATLAB
 - PYTHON 3, inlcuding the following packages:
-  * numpy
-  * matplotlib
-  * pandas
-  * seaborn
-  * xarray
-  * climata
-  * requests
-  * bokeh
-  * plotly
+  * Numpy
+  * Matplotlib
+  * Pandas
+  * Seaborn
+  * Xarray
+  * Climata
+  * Requests
+  * Bokeh
+  * Plotly
+  * StatsModels
 - RiverWare: River and Reservoir Monitoring Tool
 - GoldSim: Dynamic Monte Carlo Simulation Software;  Used for water management planning
 - Power BI
