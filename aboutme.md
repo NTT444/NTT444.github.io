@@ -39,10 +39,11 @@ PYTHON 3 (packages used included numpy, matplotlib, pandas, seaborn, and xarray)
 ### Writing, Publications, and Posters
 
 ### Current hobbies and books I have recently enjoyed
-- Hiking and travelling in general
+- Hiking/Camping
+- Travelling in general
 - Skiing
 - Woodworking
 - Board Games
-
+- Both hearing and coming up with the most awful puns
 - Reading (see list below for recent favorites)
 - 
