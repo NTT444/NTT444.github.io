@@ -33,7 +33,7 @@ U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology d
 
 ### Writing, Publications, and Posters
 My full thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
-### Current hobbies and books I have recently enjoyed
+### Current Hobbies
 - Hiking/Camping
 - Travelling in general
 - Skiing
