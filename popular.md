@@ -1,18 +1,16 @@
 ---
 layout: page
-title: "Hi, I'm Dean"
-subtitle: R-Shiny Expert / Software Tool Builder / Extreme Traveller
-css: "/css/index.css"
-meta-title: "Dean Attali - R-Shiny consultant"
-meta-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
+title: Exploring Earth Science Data
+subtitle: Enhancing our understanding of Earth Science using programming
+use-site-title: true
 bigimg:
-  - "/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
-  - "/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
-  - "/img/big-imgs/hawaii1.jpeg" : "Kauai, HI, USA (2014)"
-  - "/img/big-imgs/hawaii2.jpeg" : "Kauai, HI, USA (2014)"
-  - "/img/big-imgs/hongkong-cliff-dive.jpeg" : "Hong Kong (2014)"
-  - "/img/big-imgs/hongkong-infinity-pool.jpeg" : "Hong Kong (2014)"
- 
+  - "/img/big-imgs/Earth.jpg.jpg" : ""
+  - "/img/big-imgs/coloradorockies.jpg" : ""
+  - "/img/big-imgs/aerosols.jpg" : ""
+  - "/img/big-imgs/aurora.jpg" : ""
+  - "/img/big-imgs/freshwaterGWStorage.jpg" : ""
+  - "/img/big-imgs/volcano.jpg" : ""
+  - "/img/big-imgs/vallecaldera.jpg" : ""
 ---
 
 <div class="list-filters">
