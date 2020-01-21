@@ -6,7 +6,7 @@ subtitle:  Never lend a geologist money; to them a million years ago is recent.
 
 My name is Nolan Townsend and I am interested in all things pertaining to Earth Sciences.  My current interest is how climate change will effect future water availiablility, especially in the southwestern United States.  For full details on my past experience, see my full [resume](https://drive.google.com/file/d/11x2x3UTb03kDQmqOKLItCYpowo4Przh9/preview).
 
-### Recent Experience
+# Recent Experience
 
 At present, I am working as an "assistant engineer" at Hazen and Sawyer in Albuquerque, New Mexico, where I involved with analyzing water resources and water resources planning within the state of New Mexico, and beyond.
 
@@ -14,7 +14,7 @@ I recently graduated from UNM where I aquired a Masters degree in Earth and Plan
 
 ### Past Experience
 
-### Familiar Programs
+# Familiar Programs
 - [ArcGIS](http://www.unm.edu/~ntownsend/): Primarily for Water Resource Analysis
 - Microsoft Office Suite
 - MATLAB
@@ -28,14 +28,14 @@ I recently graduated from UNM where I aquired a Masters degree in Earth and Plan
 - Agisoft PhotoScan Pro
 - Cloud Compare
 
-### Familiar Datasets
+# Familiar Datasets
 U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology datasets * USGS hydrologic datasets * NRCS streamflow forecasts * NOAA seasonal forecasts * National Hydrography Dataset (NHD) * Landsat 7 and Landsat 8 * USGS STATSGO soil data * USGS National Land Cover Data (NLCD) * Western Regional Climate Center Data (WRCC) * PRISM Climate Data * ability to work with files in netCDF format (via Python and MATLAB) * gathering geospatial data with UAV.
 
-### Writing, Publications, and Posters
+# Writing, Publications, and Posters
 
 A copy of my entire Master's thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
 
-# Coautored Papers:
+## Coautored Papers:
 [The economics of aquifer protection plans under climate water stress: New
 insights from hydroeconomic modeling](https://water-research.nmsu.edu/files/2019/07/JH_July_5_2019a.pdf)
 
