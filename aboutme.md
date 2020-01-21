@@ -40,7 +40,7 @@ insights from hydroeconomic modeling](https://water-research.nmsu.edu/files/2019
 
 ## Posters
 
-### Current Hobbies
+# Current Hobbies
 - Hiking/Camping
 - Travelling in general
 - Skiing
