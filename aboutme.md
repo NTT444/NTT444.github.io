@@ -35,8 +35,8 @@ U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology d
 
 A copy of my entire Master's thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
 
-Coautored Papers:
--[The economics of aquifer protection plans under climate water stress: New
+# Coautored Papers:
+[The economics of aquifer protection plans under climate water stress: New
 insights from hydroeconomic modeling](https://water-research.nmsu.edu/files/2019/07/JH_July_5_2019a.pdf)
 
 ### Current Hobbies
