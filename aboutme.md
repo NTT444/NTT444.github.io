@@ -4,12 +4,12 @@ title: Nolan Townsend
 subtitle:  Never lend a geologist money; to them a million years ago is recent.
 ---
 
-My name is Nolan Townsend and I am interested in all things pertaining to Earth Sciences.  My current interest is how climate change will affect future water availiablility, especially in the southwestern United States.  For full details on my past experience, see my full [resume](https://drive.google.com/file/d/11x2x3UTb03kDQmqOKLItCYpowo4Przh9/preview).
-
-# Recent Experience
-
+# What am I currently doing?
 At present, I am working as an "assistant engineer" at [Hazen and Sawyer](https://www.hazenandsawyer.com/) in Albuquerque, New Mexico, where I involved with analyzing water resources and water resources planning within the state of New Mexico, and beyond.
 
+I am interested in all things pertaining to Earth Sciences.  My current interest is how climate change will affect future water availiablility, especially in the southwestern United States.  For full details on my past experience, see my full [resume](https://drive.google.com/file/d/11x2x3UTb03kDQmqOKLItCYpowo4Przh9/preview).
+
+# Recent Experience
 I recently graduated from UNM where I aquired a Masters degree in Earth and Planetary Sciences.  My research involved exploring the climatology and hydrology of the Rio Grande basin south of the San Marcial (New Mexico) stream gauge.  I explored drought scenarios with respect to climate change and impacts on the streamflow in the Rio Grande. To accomplish this, I used bias corrected and downscaled  [CMIP5](https://pcmdi.llnl.gov/mips/cmip5/data-portal.html) climate data from the [U.S Bureau of Reclamation](https://gdo-dcp.ucllnl.org/downscaled_cmip_projections/dcpInterface.html#Welcome).  The climate model output is used in conjunction with a surface hydrology model to produce routed streamflow based on the climate model output.  The routed streamflow values are “normalized” to match the statistics of the observed baseline period (1964-2013).  This statistical parameterization is a simple and effective technique to produce realistic future inflow values without explicitly accounting for human impairments upstream of the San Marcial streamgage.  I used these future inflow values in conjunction with a water balance model to assess future water resources management options.
 
 # Familiar Programs
