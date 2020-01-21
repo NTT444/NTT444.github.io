@@ -32,7 +32,12 @@ I recently graduated from UNM where I aquired a Masters degree in Earth and Plan
 U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology datasets * USGS hydrologic datasets * NRCS streamflow forecasts * NOAA seasonal forecasts * National Hydrography Dataset (NHD) * Landsat 7 and Landsat 8 * USGS STATSGO soil data * USGS National Land Cover Data (NLCD) * Western Regional Climate Center Data (WRCC) * PRISM Climate Data * ability to work with files in netCDF format (via Python and MATLAB) * gathering geospatial data with UAV.
 
 ### Writing, Publications, and Posters
-My full thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
+
+A copy of my entire Master's thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
+
+Coautored Papers:
+-[The economics of aquifer protection plans under climate water stress: New
+insights from hydroeconomic modeling](https://water-research.nmsu.edu/files/2019/07/JH_July_5_2019a.pdf)
 
 ### Current Hobbies
 - Hiking/Camping
