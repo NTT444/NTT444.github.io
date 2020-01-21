@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Nolan Townsend
 subtitle:  Never lend a geologist money; to them a million years ago is recent.
 ---
 
