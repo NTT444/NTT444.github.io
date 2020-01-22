@@ -51,7 +51,7 @@ insights from hydroeconomic modeling](https://water-research.nmsu.edu/files/2019
   * The Terror by: Daniel Simmons
   * Hyperion Cantos series by: Daniel Simmons
   * The Lord of the Rings Trilogy by: Tolkien
-  * Reining in the Rio Grande by: Fred M., Phillips G., Emlen Hall, Mary E. Black
+  * Reining in the Rio Grande by: Fred M. Phillips, G. Emlen Hall, and Mary E. Black
   * Game of Thrones series by: where's that next book George?
   * Crime and Punishment by: Fyodor Dostoevsky
   * Fight Club by: Chuck Palahniuk 
