@@ -5,7 +5,7 @@ subtitle:  Never lend a geologist money; to them a million years ago is recent.
 ---
 
 # What am I currently doing?
-At present, I am working as an "assistant engineer" at [Hazen and Sawyer](https://www.hazenandsawyer.com/) in Albuquerque, New Mexico, where I am involved in analyzing water resources and water resources planning within the state of New Mexico, and beyond.
+At present, I am working as an "assistant engineer" at [Hazen and Sawyer](https://www.hazenandsawyer.com/) in Albuquerque, New Mexico, where I am involved in analyzing water resources and assisting with water resources planning within the state of New Mexico, and beyond.
 
 I am interested in all things pertaining to Earth Sciences.  My current interest is how climate change will affect future water availiablility, especially in the southwestern United States.  For full details on my past experience, see my full [resume](https://drive.google.com/file/d/11x2x3UTb03kDQmqOKLItCYpowo4Przh9/preview).
 
