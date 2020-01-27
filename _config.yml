@@ -25,6 +25,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Python and Earth Science: "https://www.earthdatascience.org/tutorials/python/"
+    - Python for Atmosphere and Ocean Scientists: "https://carpentrieslab.github.io/python-aos-lesson/"
     - Climata: "https://github.com/heigeo/climata"
   Data Access:
     - NOAA CDO: "https://www.ncdc.noaa.gov/cdo-web/"
