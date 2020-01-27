@@ -34,6 +34,7 @@ navbar-links:
     - USDA-NRCS Map: "https://www.nrcs.usda.gov/wps/portal/wcc/home/quicklinks/imap#version=115&elements=R&networks=!&states=!&counties=!&hucs=&minElevation=&maxElevation=&elementSelectType=all&activeOnly=true&activeForecastPointsOnly=false&hucLabels=false&hucIdLabels=false&hucParameterLabels=false&stationLabels=&overlays=&hucOverlays=&basinOpacity=100&basinNoDataOpacity=100&basemapOpacity=100&maskOpacity=0&mode=data&openSections=dataElement,parameter,date,basin,elements,location,networks&controlsOpen=true&popup=&popupMulti=&base=esriNgwm&displayType=station&basinType=6&dataElement=FCST&depth=-8&parameter=PCTAVG&frequency=MONTHLY&duration=primary&customDuration=1&dayPart=E&year=2020&month=9&day=4&monthPart=E&forecastPubMonth=1&forecastPubDay=1&forecastExceedance=50&seqColor=1&divColor=3&scaleType=D&scaleMin=&scaleMax=&referencePeriodType=POR&referenceBegin=1981&referenceEnd=2010&minimumYears=20&hucAssociations=true&lat=37.753&lon=-107.402&zoom=7.0"
     - Livneh Data: "https://ciresgroups.colorado.edu/livneh/data"
     - BOR Downscaled Climate Data: "https://gdo-dcp.ucllnl.org/downscaled_cmip_projections/dcpInterface.html"
+    - PRISM Climate Data: "http://www.prism.oregonstate.edu/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
