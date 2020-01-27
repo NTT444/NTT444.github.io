@@ -29,6 +29,7 @@ navbar-links:
     - Python for Atmosphere and Ocean Scientists: "https://carpentrieslab.github.io/python-aos-lesson/"
     - Climata: "https://github.com/heigeo/climata"
   Data Access:
+    - Geospatial Data Sources: "<iframe src="https://drive.google.com/file/d/1NMa0djzYei9MaGbeeHU3JDD69y-wUbDQ/preview" width="640" height="480"></iframe>"
     - NOAA CDO: "https://www.ncdc.noaa.gov/cdo-web/"
     - NOAA NCEI: "https://www.ncdc.noaa.gov/data-access"
     - USGS: "https://data.usgs.gov/datacatalog/#fq=dataType%3A(collection%20OR%20non-collection)&q=*%3A*"
