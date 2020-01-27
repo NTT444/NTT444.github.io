@@ -22,6 +22,7 @@ description:  Enhancing the understanding of the Earth using programming
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Automate the Boring Stuff: "https://automatetheboringstuff.com/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Python and Earth Science: "https://www.earthdatascience.org/tutorials/python/"
