@@ -31,7 +31,7 @@ U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology d
 
 # Published Works
 
-## First Author
+## First Author:
 A copy of my entire Master's thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
 
 ## Coautored Papers:
