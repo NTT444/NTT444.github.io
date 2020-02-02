@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Purpose of this Website
+title: The Purpose
 image: /img/earth_obs.jpg
 ---
 
