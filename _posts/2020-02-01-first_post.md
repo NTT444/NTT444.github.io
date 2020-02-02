@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Purpose of this Website
-image: /img/hello_world.jpeg
+image: /img/earth_obs.jpg
 ---
 
 # Why did I make this site?
