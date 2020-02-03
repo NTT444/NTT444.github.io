@@ -103,7 +103,7 @@ social-network-links:
 share-links-active:
   #twitter: true
   #facebook: true
-  linkedin: true
+  linkedin: "https://www.linkedin.com/in/nolan-townsend-2b940431/"
   #github: true   
 
 # How to display the link to the website in the footer
