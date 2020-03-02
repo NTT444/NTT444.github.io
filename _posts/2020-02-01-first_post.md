@@ -2,6 +2,8 @@
 layout: post
 title: The Purpose
 image: /img/earth_obs.jpg
+gh-badge: [star, fork, follow]
+tags: [purpose,first,background]
 ---
 
 # Why did I make this site?
