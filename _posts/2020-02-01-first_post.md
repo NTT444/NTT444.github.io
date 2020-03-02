@@ -2,8 +2,10 @@
 layout: post
 title: The Purpose
 image: /img/earth_obs.jpg
+gh-repo: NTT444/NTT444.github.io
 gh-badge: [star, fork, follow]
-tags: [purpose,first,background]
+tags: [Purpose, Earth Science]
+comments: true
 ---
 
 # Why did I make this site?
