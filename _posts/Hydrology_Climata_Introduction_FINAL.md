@@ -2,6 +2,8 @@
 layout: post
 title: Get Hydroclimatic Data with Climata
 image: /img/climata_img/
+gh-badge: [star, fork, follow]
+tags: [climata]
 ---
 
 # Obtaining Hydrology Data with the Climata Python Package
