@@ -1,3 +1,9 @@
+---
+layout: post
+title: Get Hydroclimatic Data with Climata
+image: /img/climata_img/
+---
+
 # Obtaining Hydrology Data with the Climata Python Package
 
 I highly recommend you take a look at the [__Climata__](https://github.com/heigeo/climata) documentation before going too much further.  In essence, Climata allows you to easily interface with, and retrieve hydrology datasets from some prominent state and government organizations.  
