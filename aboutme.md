@@ -54,11 +54,11 @@ insights from hydroeconomic modeling__](https://water-research.nmsu.edu/files/20
 | Title      | Author |
 | ----------- | ----------- |
 | The Terror   | Daniel Simmons       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Hyperion Cantos   | Daniel Simmons        |
+| The Lord of the Rings Trilogy      | J.R.R. Tolkien       |
+| Reining in the Rio Grande  | Fred M. Phillips, G. Emlen Hall, and Mary E. Black        |
+| Game of Thrones series     | where's that next book George?       |
+| Crime and Punishment   | Fyodor Dostoevsky       |
 | Header      | Title       |
 | Paragraph   | Text        |
 | Header      | Title       |
