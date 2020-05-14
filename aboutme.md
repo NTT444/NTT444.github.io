@@ -51,8 +51,16 @@ insights from hydroeconomic modeling__](https://water-research.nmsu.edu/files/20
 - Both hearing and coming up with the most awful puns
 - Reading (see list below for recent favorites):
 
-| Syntax      | Description |
+| Title      | Author |
 | ----------- | ----------- |
+| The Terror   | Daniel Simmons       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
 
