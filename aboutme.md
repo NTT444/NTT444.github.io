@@ -50,6 +50,11 @@ insights from hydroeconomic modeling__](https://water-research.nmsu.edu/files/20
 - Board Games
 - Both hearing and coming up with the most awful puns
 - Reading (see list below for recent favorites):
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
   * The Terror by: Daniel Simmons
   * Hyperion Cantos series by: Daniel Simmons
   * The Lord of the Rings Trilogy by: Tolkien
