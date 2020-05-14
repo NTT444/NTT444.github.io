@@ -59,10 +59,13 @@ insights from hydroeconomic modeling__](https://water-research.nmsu.edu/files/20
 | Reining in the Rio Grande  | Fred M. Phillips, G. Emlen Hall, and Mary E. Black        |
 | Game of Thrones series     | where's that next book George?       |
 | Crime and Punishment   | Fyodor Dostoevsky       |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Fight Club      | Chuck Palahniuk        |
+| Earthcore   | Scott Sigler       |
+| The Stormlight Archive Series      | Brandon Sanderson       |
+| Mortality   | Christopher Hitchens       |
+| Do Androids Dream of Electric Sheep?     | Philip K. Dick       |
+| Starship Troopers   | Robert A. Heinlein        |
+
 
   * The Terror by: Daniel Simmons
   * Hyperion Cantos series by: Daniel Simmons
