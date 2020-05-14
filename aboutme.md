@@ -32,6 +32,8 @@ U.S. Bureau of Reclamation downscaled and bias corrected climate and hydrology d
 # Published Works
 
 ## First Author:
+[__Adaptation of Climate Model Projections of Streamflow to Account for Upstream Anthropogenic Impairments__](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12851)
+
 A copy of my entire Master's thesis can be found [here](https://digitalrepository.unm.edu/eps_etds/259/).
 
 ## Coautored Papers:
@@ -58,3 +60,5 @@ insights from hydroeconomic modeling](https://water-research.nmsu.edu/files/2019
   * Earthcore by: Scott Sigler
   * The Stormlight Archive Series by: Brandon Sanderson
   * Mortality by: Christopher Hitchens
+  * Do Androids Dream of Electric Sheep? by: Philip K. Dick
+  * Starship Troopers by: Robert A. Heinlein
